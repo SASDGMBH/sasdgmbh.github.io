@@ -1,0 +1,52 @@
+
+.repo-panel {
+    width: 200px; 
+    height: 600px;
+    margin: 10px 10px 0px 0px;
+    border: 1px solid black;
+    border-radius: 5px 5px 5px 5px;
+    background-color: white;
+}
+
+.repo-panel-title-area {
+    border-radius: 5px 5px 0 0;
+    padding: 15px 15px 15px 15px;   
+    color: rgba(0, 0, 0, 1);
+    background-color: cadetblue;
+    overflow: hidden;
+    vertical-align: middle;
+    line-height: 100%;
+}
+
+.repo-title {
+    font-size: 24px;    
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.repo-panel-body-area {
+    display: block;
+}
+.repo-panel-body-fork-info {
+    
+}
+
+.repo-panel-body-description {
+    padding: 20px 15px 0px 15px;      
+}
+
+.repo-description {    
+    font-size: 18px;
+    font-weight: bold;
+ }
+
+.repo-panel-body {
+    padding: 5px 15px 15px 15px; 
+    /*font-size: 12px;*/
+}
+
+.cheers {
+    font-size: 16px;
+    font-weight:bold;
+    font-style:italic;
+}
