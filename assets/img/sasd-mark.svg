@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">SASD-GmbH mark</title>
+  <desc id="desc">A calm technical mark combining a hexagon, circuit lines and the letters SASD.</desc>
+  <defs>
+    <linearGradient id="g" x1="14" y1="10" x2="82" y2="88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d7eef2"/>
+      <stop offset="0.45" stop-color="#1f7a8c"/>
+      <stop offset="1" stop-color="#0d202b"/>
+    </linearGradient>
+  </defs>
+  <path d="M48 5 85 26.5v43L48 91 11 69.5v-43L48 5Z" fill="url(#g)"/>
+  <path d="M48 13.5 77.5 30.7v34.6L48 82.5 18.5 65.3V30.7L48 13.5Z" fill="#07141b" opacity=".72"/>
+  <path d="M31 36h26c8 0 13 4.5 13 11.3 0 7.2-5.2 11.7-13.7 11.7H38" fill="none" stroke="#d7eef2" stroke-width="6" stroke-linecap="round"/>
+  <path d="M34 48h24" stroke="#2a9d8f" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="29" cy="36" r="4.2" fill="#d7eef2"/>
+  <circle cx="38" cy="59" r="4.2" fill="#2a9d8f"/>
+</svg>
